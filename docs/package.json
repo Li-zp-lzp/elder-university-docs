@@ -1,0 +1,19 @@
+{
+  "name": "zhsj_old_docs",
+  "version": "0.0.1",
+  "description": "老年大学项目文档",
+  "main": "index.js",
+  "authors": {
+    "name": "pzb",
+    "email": ""
+  },
+  "repository": "https://github.com/zhsj2017/elder-university-docs.git/zhsj_old_docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
